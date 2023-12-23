@@ -172,7 +172,7 @@ local title = Instance.new("TextLabel")
 	title.ZIndex = 2
 	title.Font = tef
 	title.FontSize = "Size24"
-	title.Text = "c00lgui Reborn Rc7 by v3rx"
+	title.Text = "c00lgui by Team C00lkidd"
 	title.TextColor3 = whit
 --           inside pages        --
 local acg = Instance.new("Frame")
@@ -180,7 +180,7 @@ local acg = Instance.new("Frame")
 	acg.BackgroundColor3 = blak
 	acg.BorderColor3 = rede
 	acg.BorderSizePixel = 3
-	acg.Name = "Admin Commands/Guis"
+	acg.Name = "Admin Commands"
 	acg.Position = UDim2.new(0.5,3,0,0)
 	acg.Size = UDim2.new(0.5,-3,1,0)
 	acg.ZIndex = 2
@@ -189,7 +189,7 @@ local sd = Instance.new("Frame")
 	sd.BackgroundColor3 = blak
 	sd.BorderColor3 = rede
 	sd.BorderSizePixel = 3
-	sd.Name = "Server Destruction"
+	sd.Name = "ServerSide"
 	sd.Position = UDim2.new(0,0,0,0)
 	sd.Size = UDim2.new(0.5,-3,1,0)
 	sd.ZIndex = 2
@@ -278,7 +278,7 @@ local button = Instance.new("TextButton")
 	button.ZIndex = 2
 	button.Font = tef
 	button.FontSize = "Size14"
-	button.Text = "i0rb"
+	button.Text = "iorb"
 	button.TextColor3 = whit
 	button.MouseButton1Down:connect(function()
 		
@@ -29468,11 +29468,11 @@ local button = Instance.new("TextButton")
 	button.ZIndex = 2
 	button.Font = tef
 	button.FontSize = "Size14"
-	button.Text = "Thomas"
+	button.Text = "j00jkidd"
 	button.TextColor3 = whit
 	button.TextWrapped = true
 	button.MouseButton1Down:connect(function()
-	frame.Settings.Page1["Skybox/Decal ID"].TextBox.Text = 160456772	
+	frame.Settings.Page1["Skybox/Decal ID"].TextBox.Text = 15728771213	
 	end)
 --
 local button = Instance.new("TextButton")
@@ -29486,11 +29486,11 @@ local button = Instance.new("TextButton")
 	button.ZIndex = 2
 	button.Font = tef
 	button.FontSize = "Size14"
-	button.Text = "c00lkidd"
+	button.Text = "h0lpkidd"
 	button.TextColor3 = whit
 	button.TextWrapped = true
 	button.MouseButton1Down:connect(function()
-	frame.Settings.Page1["Skybox/Decal ID"].TextBox.Text = 157755295	
+	frame.Settings.Page1["Skybox/Decal ID"].TextBox.Text = 15693024963	
 	end)
 --
 local button = Instance.new("TextButton")
@@ -29683,7 +29683,7 @@ local t3xt = Instance.new("TextLabel")
 	t3xt.ZIndex = 2
 	t3xt.Font = tef
 	t3xt.FontSize = "Size14"
-	t3xt.Text = "Thank you for using c00lgui scripted! Addons coming soon! Post Ideas in the Thread!!!"
+	t3xt.Text = "Thank you for using c00lgui! made by yourlocalc00lkid on YouTube"
 	t3xt.TextColor3 = whit
 	t3xt.TextWrapped = true
 	t3xt.TextYAlignment = "Top"
